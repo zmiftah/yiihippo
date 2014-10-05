@@ -1,0 +1,4 @@
+[19-Dec-2013 09:23:13] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/iconic/views/layouts/column2.php on line 1
+[19-Dec-2013 19:58:48] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/iconic/views/layouts/column1.php on line 1
+[20-Dec-2013 03:12:32] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/iconic/views/layouts/404.php on line 5
+[20-Dec-2013 17:31:55] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/iconic/views/layouts/main.php on line 8

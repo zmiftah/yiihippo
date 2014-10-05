@@ -1,0 +1,512 @@
+2013/09/28 09:57:33 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (30)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (38)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 09:57:33 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (30)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (38)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 09:58:12 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (30)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (38)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 09:58:12 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (30)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (38)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 10:20:40 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (30)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (38)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 10:20:40 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (30)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (38)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 10:24:32 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (31)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (39)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 10:24:32 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (31)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (39)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 10:41:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (31)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (39)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 10:41:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (31)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (39)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/09/28 13:28:55 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/09/28 13:28:55 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/09/28 13:29:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/09/28 13:29:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/09/28 13:47:58 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/09/28 13:47:58 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:48:00 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:48:00 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:48:34 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:48:34 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:48:42 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:48:42 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:54:32 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:54:32 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:55:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/03 10:55:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-5' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (62)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/05 11:29:48 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-15' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/05 11:29:48 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-15' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:04:22 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:04:22 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:04:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:04:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:14:45 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:14:45 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:26:07 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-15' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 10:26:07 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-15' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 14:15:34 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN (Array).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (34)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (43)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/10/07 14:15:34 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'. Statement SQL yang dijalankan: DELETE FROM postterm WHERE post_id=16 AND term_id IN (Array).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (34)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (43)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (116)
+2013/10/07 14:24:42 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-17' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 14:24:42 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-17' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 14:25:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-17' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 14:25:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-17' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 14:25:30 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-17' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/07 14:25:30 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '16-17' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/08 13:44:57 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/08 13:44:57 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '23-7' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `postterm` (`post_id`, `term_id`, `order`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbTaxonomyAPI.php (122)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (74)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (119)
+2013/10/16 16:30:54 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storm' in 'where clause'. The SQL statement executed was: SELECT GROUP_CONCAT(CONCAT('"',name,'"')) as tags
+FROM `terms`
+WHERE term_id IN (storm,spirit).
+in E:\Apache\www\hiipopress\system\protected\models\PostTermModel.php (61)
+in E:\Apache\www\hiipopress\system\protected\models\PostTermModel.php (47)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (140)
+2013/10/16 16:30:54 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storm' in 'where clause'. The SQL statement executed was: SELECT GROUP_CONCAT(CONCAT('"',name,'"')) as tags
+FROM `terms`
+WHERE term_id IN (storm,spirit).
+in E:\Apache\www\hiipopress\system\protected\models\PostTermModel.php (61)
+in E:\Apache\www\hiipopress\system\protected\models\PostTermModel.php (47)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (140)
+2013/11/23 11:25:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '10' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `links` (`link_id`, `url`, `name`, `type`, `content_type`, `image_url`, `target`, `status`, `desc`, `created`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, NOW()).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (148)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (72)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/23 11:25:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '10' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `links` (`link_id`, `url`, `name`, `type`, `content_type`, `image_url`, `target`, `status`, `desc`, `created`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, NOW()).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (148)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (72)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/23 11:30:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/23 11:30:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/23 11:30:56 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/23 11:30:56 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 10:37:20 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 10:37:20 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 10:39:59 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 10:39:59 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `comments` (`post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (174)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 12:47:22 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 12:47:22 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 12:47:22 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 12:47:22 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 14:40:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 14:40:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 14:40:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 14:40:01 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:11:51 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:11:51 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:11:51 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:11:51 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (130)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:11 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:11 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:11 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:11 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:12:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (132)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (63)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:13:28 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (133)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (64)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:13:28 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (133)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (64)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:13:28 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (133)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (64)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:13:28 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (133)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (64)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:15:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (135)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (66)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:15:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (135)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (66)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:15:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (135)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (66)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:15:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (135)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (66)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:22:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:22:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:22:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:22:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:22:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:22:27 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:23:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:23:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:23:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:23:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:23:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:23:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `keywords` (`id`, `name`, `status`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (233)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (69)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `posts` (`viewed`, `post_id`, `posttype_id`, `created`, `title`, `desc`, `content`, `author`, `excerpt`, `url`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (144)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (57)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/25 16:27:14 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `keywords` (`id`, `name`, `status`) VALUES (:yp0, :yp1, :yp2).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (233)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (69)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (14)
+2013/11/28 13:59:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'contact us' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `keywords` (`name`, `status`) VALUES (:yp0, :yp1).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (255)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (15)
+2013/11/28 13:59:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'contact us' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `keywords` (`name`, `status`) VALUES (:yp0, :yp1).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (255)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (15)
+2013/11/28 14:05:32 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. Statement SQL yang dijalankan: SELECT * FROM `keywords` `t` WHERE name=:name LIMIT 1.
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (255)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (15)
+2013/11/28 14:05:32 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. Statement SQL yang dijalankan: SELECT * FROM `keywords` `t` WHERE name=:name LIMIT 1.
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (255)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (67)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (15)
+2013/11/28 16:39:07 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `comments` (`comment_id`, `post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (209)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (15)
+2013/11/28 16:39:07 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'. Statement SQL yang dijalankan: INSERT INTO `comments` (`comment_id`, `post_id`, `author`, `email`, `content`, `date_insert`, `status`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6).
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (209)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbMigrationComponent.php (61)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\MigrateController.php (15)
+2013/12/10 10:42:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id=NULL' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (132)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (42)
+2013/12/10 10:42:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id=NULL' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (132)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (42)
+2013/12/10 10:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id=NULL' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (84)
+in E:\Apache\www\brainhippo\admin.php (20)
+2013/12/10 10:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id=NULL' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (84)
+in E:\Apache\www\brainhippo\admin.php (20)
+2013/12/10 14:44:47 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='10' AND key='post_meta' LIMIT 1' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id AND key=:key LIMIT 1.
+in E:\Apache\www\brainhippo\system\protected\admin\components\AbArticleHandlerBehavior.php (110)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+2013/12/10 14:44:47 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='10' AND key='post_meta' LIMIT 1' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id AND key=:key LIMIT 1.
+in E:\Apache\www\brainhippo\system\protected\admin\components\AbArticleHandlerBehavior.php (110)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+2013/12/10 14:45:31 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='11' AND key='post_meta' LIMIT 1' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id AND key=:key LIMIT 1.
+in E:\Apache\www\brainhippo\system\protected\admin\components\AbArticleHandlerBehavior.php (110)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+2013/12/10 14:45:31 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='11' AND key='post_meta' LIMIT 1' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id AND key=:key LIMIT 1.
+in E:\Apache\www\brainhippo\system\protected\admin\components\AbArticleHandlerBehavior.php (110)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (66)
+2013/12/10 14:55:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='12'' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (150)
+in E:\Apache\www\brainhippo\admin.php (20)
+2013/12/10 14:55:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='12'' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (150)
+in E:\Apache\www\brainhippo\admin.php (20)
+2013/12/10 14:57:08 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='12'' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (150)
+in E:\Apache\www\brainhippo\admin.php (20)
+2013/12/10 14:57:08 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table='posts' AND table_id='12'' at line 1. Statement SQL yang dijalankan: SELECT * FROM `metadata` `t` WHERE table=:table AND table_id=:id.
+in E:\Apache\www\brainhippo\system\protected\models\PostModel.php (133)
+in E:\Apache\www\brainhippo\system\protected\admin\controllers\ArticleController.php (150)
+in E:\Apache\www\brainhippo\admin.php (20)
+2014/03/08 16:02:24 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'pret' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `terms` (`taxo_id`, `name`, `slug`, `term_group`, `desc`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in /home/as72nvid/public_html/system/protected/admin/controllers/TaxonomyController.php (27)
+in /home/as72nvid/public_html/admin.php (22)
+2014/03/08 16:02:24 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'pret' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `terms` (`taxo_id`, `name`, `slug`, `term_group`, `desc`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in /home/as72nvid/public_html/system/protected/admin/controllers/TaxonomyController.php (27)
+in /home/as72nvid/public_html/admin.php (22)
+2014/03/08 16:02:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'pret' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `terms` (`taxo_id`, `name`, `slug`, `term_group`, `desc`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in /home/as72nvid/public_html/system/protected/admin/controllers/TaxonomyController.php (27)
+in /home/as72nvid/public_html/admin.php (22)
+2014/03/08 16:02:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'pret' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `terms` (`taxo_id`, `name`, `slug`, `term_group`, `desc`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in /home/as72nvid/public_html/system/protected/admin/controllers/TaxonomyController.php (27)
+in /home/as72nvid/public_html/admin.php (22)

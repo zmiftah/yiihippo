@@ -1,0 +1,56 @@
+2013/10/05 10:31:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.type' in 'where clause'. Statement SQL yang dijalankan: SELECT `featured`.`link_id` AS `t1_c0`, `featured`.`url` AS `t1_c1`, `featured`.`name` AS `t1_c2`, `featured`.`type` AS `t1_c3`, `featured`.`status` AS `t1_c4`, `featured`.`content_type` AS `t1_c5`, `featured`.`size` AS `t1_c6`, `featured`.`image_url` AS `t1_c7`, `featured`.`target` AS `t1_c8`, `featured`.`desc` AS `t1_c9`, `featured`.`created` AS `t1_c10` FROM `links` `featured`  WHERE (t.type=3) AND (`featured`.`image`=:ypl0).
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\list.php (28)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (25)
+in E:\Apache\www\hiipopress\index.php (15)
+2013/10/05 10:31:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'featured.image' in 'where clause'. Statement SQL yang dijalankan: SELECT `featured`.`link_id` AS `t1_c0`, `featured`.`url` AS `t1_c1`, `featured`.`name` AS `t1_c2`, `featured`.`type` AS `t1_c3`, `featured`.`status` AS `t1_c4`, `featured`.`content_type` AS `t1_c5`, `featured`.`size` AS `t1_c6`, `featured`.`image_url` AS `t1_c7`, `featured`.`target` AS `t1_c8`, `featured`.`desc` AS `t1_c9`, `featured`.`created` AS `t1_c10` FROM `links` `featured`  WHERE (featured.type=3) AND (`featured`.`image`=:ypl0).
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\list.php (28)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (25)
+in E:\Apache\www\hiipopress\index.php (15)
+2013/10/05 10:32:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'links.type' in 'where clause'. Statement SQL yang dijalankan: SELECT `featured`.`link_id` AS `t1_c0`, `featured`.`url` AS `t1_c1`, `featured`.`name` AS `t1_c2`, `featured`.`type` AS `t1_c3`, `featured`.`status` AS `t1_c4`, `featured`.`content_type` AS `t1_c5`, `featured`.`size` AS `t1_c6`, `featured`.`image_url` AS `t1_c7`, `featured`.`target` AS `t1_c8`, `featured`.`desc` AS `t1_c9`, `featured`.`created` AS `t1_c10` FROM `links` `featured`  WHERE (links.type=3) AND (`featured`.`image`=:ypl0).
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\list.php (28)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (25)
+in E:\Apache\www\hiipopress\index.php (15)
+2013/10/05 10:32:45 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'featured.image' in 'where clause'. Statement SQL yang dijalankan: SELECT `featured`.`link_id` AS `t1_c0`, `featured`.`url` AS `t1_c1`, `featured`.`name` AS `t1_c2`, `featured`.`type` AS `t1_c3`, `featured`.`status` AS `t1_c4`, `featured`.`content_type` AS `t1_c5`, `featured`.`size` AS `t1_c6`, `featured`.`image_url` AS `t1_c7`, `featured`.`target` AS `t1_c8`, `featured`.`desc` AS `t1_c9`, `featured`.`created` AS `t1_c10` FROM `links` `featured`  WHERE (`featured`.`image`=:ypl0).
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\list.php (28)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (25)
+in E:\Apache\www\hiipopress\index.php (15)
+2013/10/18 16:47:40 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc LIKE '%kata kunci%' OR content LIKE '%kata kunci%'' at line 1. Statement SQL yang dijalankan: SELECT * FROM `posts` `t` WHERE title LIKE :title OR desc LIKE :desc OR content LIKE :content.
+in E:\Apache\www\hiipopress\system\protected\components\AbParseUrlBehavior.php (79)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (57)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (57)
+2013/10/21 14:33:52 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'terms.post_id' in 'where clause'. Statement SQL yang dijalankan: SELECT `terms`.`term_id` AS `t1_c0`, `terms`.`taxo_id` AS `t1_c1`, `terms`.`name` AS `t1_c2`, `terms`.`slug` AS `t1_c3`, `terms`.`term_group` AS `t1_c4`, `terms`.`desc` AS `t1_c5` FROM `terms` `terms`  WHERE (`terms`.`post_id`=:ypl0).
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\view_article.php (5)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (68)
+in E:\Apache\www\hiipopress\index.php (15)
+2013/10/21 14:36:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.taxo_id' in 'where clause'. Statement SQL yang dijalankan: SELECT `categories`.`post_id` AS `t1_c0`, `categories`.`taxo_id` AS `t1_c1`, `categories`.`terms` AS `t1_c2`, `categories`.`order` AS `t1_c3` FROM `postterm` `categories`  WHERE (t.taxo_id=1) AND (`categories`.`post_id`=:ypl0).
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\view_article.php (5)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (68)
+in E:\Apache\www\hiipopress\index.php (15)
+2013/10/21 14:52:47 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$Ids' in 'where clause'. Statement SQL yang dijalankan: SELECT * FROM `terms` `t` WHERE term_id IN ($Ids).
+in E:\Apache\www\hiipopress\system\protected\components\widgets\AbGetCategoriesWidget.php (15)
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\view_article.php (26)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (68)
+2013/10/21 14:53:21 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1. Statement SQL yang dijalankan: SELECT * FROM `terms` `t` WHERE term_id IN ().
+in E:\Apache\www\hiipopress\system\protected\components\widgets\AbGetCategoriesWidget.php (15)
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\view_article.php (26)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (68)
+2013/10/22 10:21:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comments.status' in 'where clause'. Statement SQL yang dijalankan: SELECT `comment`.`comment_id` AS `t1_c0`, `comment`.`post_id` AS `t1_c1`, `comment`.`author` AS `t1_c2`, `comment`.`email` AS `t1_c3`, `comment`.`website` AS `t1_c4`, `comment`.`ip_address` AS `t1_c5`, `comment`.`date_insert` AS `t1_c6`, `comment`.`content` AS `t1_c7`, `comment`.`status` AS `t1_c8`, `comment`.`reply_to` AS `t1_c9` FROM `comments` `comment`  WHERE (comments.status=1) AND (`comment`.`post_id`=:ypl0).
+in E:\Apache\www\hiipopress\system\protected\components\widgets\AbListComments.php (22)
+in E:\Apache\www\hiipopress\content\themes\swift\views\post\view_article.php (67)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (67)
+2013/10/22 14:41:44 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'. Statement SQL yang dijalankan: SELECT * FROM `posts` `t` WHERE posttype_id=1 ORDER BY name.
+in E:\Apache\www\hiipopress\system\protected\components\widgets\AbNavMenuTopWidget.php (22)
+in E:\Apache\www\hiipopress\system\protected\components\widgets\AbNavMenuTopWidget.php (10)
+in E:\Apache\www\hiipopress\content\themes\swift\views\partial\_header.php (32)
+2013/10/30 14:28:40 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'post_typeid' in 'where clause'. Statement SQL yang dijalankan: SELECT post_id FROM posts WHERE post_typeid=2.
+in E:\Apache\www\hiipopress\system\protected\models\PostModel.php (94)
+in E:\Apache\www\hiipopress\content\themes\iconic\views\post\view_article.php (14)
+in E:\Apache\www\hiipopress\system\protected\controllers\PostController.php (50)
+2013/11/08 14:50:10 [error] [system.db.CDbCommand] Error in preparing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1383897010
+in E:\Apache\www\hiipopress\system\protected\components\AbParseUrlBehavior.php (247)
+in E:\Apache\www\hiipopress\system\protected\components\AbParseUrlBehavior.php (214)
+in E:\Apache\www\hiipopress\system\protected\controllers\TextController.php (17)
+2013/11/08 14:50:10 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: CDbCommand gagal menyiapkan statement SQL: SQLSTATE[HY000]: General error: 1 no such table: YiiCache. Statement SQL yang dijalankan: DELETE FROM YiiCache WHERE expire>0 AND expire<1383897010.
+in E:\Apache\www\hiipopress\system\protected\components\AbParseUrlBehavior.php (247)
+in E:\Apache\www\hiipopress\system\protected\components\AbParseUrlBehavior.php (214)
+in E:\Apache\www\hiipopress\system\protected\controllers\TextController.php (17)

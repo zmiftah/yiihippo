@@ -1,0 +1,4 @@
+[19-Dec-2013 11:58:38] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/partial/_sidebar.php on line 2
+[19-Dec-2013 18:24:01] PHP Fatal error:  Class 'Yii' not found in /home/as72nvid/public_html/content/themes/swift/views/partial/_bottom.php on line 3
+[20-Dec-2013 10:32:38] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/partial/_header.php on line 20
+[20-Dec-2013 16:29:54] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/partial/_head.php on line 2

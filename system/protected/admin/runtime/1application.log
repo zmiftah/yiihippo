@@ -1,0 +1,233 @@
+2013/08/01 13:30:20 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'keyword_id' in 'field list'. Statement SQL yang dijalankan: SELECT keyword_id AS id, name, status, post_id FROM `keywords` `t` WHERE status = :status_val LIMIT 10.
+in E:\Apache\apps\hiipopress\system\protected\components\internal\AbActiveRecord.php (20)
+in E:\Apache\apps\hiipopress\system\protected\admin\components\AbGridViewDataBehavior.php (36)
+in E:\Apache\apps\hiipopress\system\protected\admin\controllers\KeywordController.php (13)
+2013/08/01 14:14:54 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Update Manager', 0, 0)' at line 1. Statement SQL yang dijalankan: INSERT IGNORE INTO keywords (name, status, post_id) VALUES('Ubuntu GNOME', 0, 0),('Raring Ringtail', 0, 0),('GNOME', 0, 0),('Packagekit', 0, 0),('Ubuntu Software Center', 0, 0),('Ubuntu's Update Manager', 0, 0).
+in E:\Apache\apps\hiipopress\system\protected\admin\controllers\KeywordController.php (34)
+in E:\Apache\apps\hiipopress\admin.php (18)
+2013/08/01 14:31:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`keywords`, CONSTRAINT `keywords_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION). Statement SQL yang dijalankan: INSERT IGNORE INTO keywords (name, status, post_id) VALUES('Ubuntu GNOME', 0, 0),('Raring Ringtail', 0, 0),('GNOME', 0, 0),('Packagekit', 0, 0),('Ubuntu Software Center', 0, 0),('Ubuntu\'s Update Manager', 0, 0).
+in E:\Apache\apps\hiipopress\system\protected\admin\controllers\KeywordController.php (37)
+in E:\Apache\apps\hiipopress\admin.php (18)
+2013/08/01 14:32:20 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`keywords`, CONSTRAINT `keywords_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION). Statement SQL yang dijalankan: INSERT IGNORE INTO keywords (name, status, post_id) VALUES('Ubuntu GNOME', 0, 0),('Remix', 0, 0),('Linux distribution', 0, 0),('become an official Ubuntu flavour', 0, 0),('uses GNOME Shell', 0, 0),('default \"shell\"', 0, 0),('mostly pure', 0, 0),('GNOME desktop experience', 0, 0),('Ubuntu repositories', 0, 0).
+in E:\Apache\apps\hiipopress\system\protected\admin\controllers\KeywordController.php (37)
+in E:\Apache\apps\hiipopress\admin.php (18)
+2013/08/15 16:51:28 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`posts`, CONSTRAINT `posts_ibfk_5` FOREIGN KEY (`author`) REFERENCES `users` (`user_id`) ON DELETE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `posts` (`title`, `desc`, `keyword`, `content`, `posttype_id`, `created`, `author`, `excerpt`, `status`, `url`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, NOW(), :yp5, :yp6, :yp7, :yp8).
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (42)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/16 11:02:53 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`posts`, CONSTRAINT `posts_ibfk_5` FOREIGN KEY (`author`) REFERENCES `users` (`user_id`) ON DELETE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `posts` (`status`, `title`, `desc`, `keyword`, `content`, `posttype_id`, `created`, `author`, `excerpt`, `url`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, NOW(), :yp6, :yp7, :yp8).
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (42)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/19 16:51:43 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`brainhippopress`.`posts`, CONSTRAINT `posts_ibfk_3` FOREIGN KEY (`status`) REFERENCES `poststatus` (`status_id`) ON DELETE NO ACTION). Statement SQL yang dijalankan: INSERT INTO `posts` (`status`, `title`, `desc`, `keyword`, `content`, `posttype_id`, `created`, `author`, `excerpt`, `url`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, NOW(), :yp6, :yp7, :yp8).
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (45)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 10:15:25 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postKeyword.keyword' in 'where clause'. Statement SQL yang dijalankan: SELECT `postKeyword`.`id` AS `t1_c0`, `postKeyword`.`name` AS `t1_c1`, `postKeyword`.`status` AS `t1_c2`, `postKeyword`.`post_id` AS `t1_c3` FROM `keywords` `postKeyword`  WHERE (`postKeyword`.`keyword`=:ypl0).
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (89)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (19)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 10:15:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postKeyword.keyword' in 'where clause'. Statement SQL yang dijalankan: SELECT `postKeyword`.`id` AS `t1_c0`, `postKeyword`.`name` AS `t1_c1`, `postKeyword`.`status` AS `t1_c2`, `postKeyword`.`post_id` AS `t1_c3` FROM `keywords` `postKeyword`  WHERE (`postKeyword`.`keyword`=:ypl0).
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (89)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (19)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 10:18:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postKeyword.keyword' in 'where clause'. Statement SQL yang dijalankan: SELECT `postKeyword`.`id` AS `t1_c0`, `postKeyword`.`name` AS `t1_c1`, `postKeyword`.`status` AS `t1_c2`, `postKeyword`.`post_id` AS `t1_c3` FROM `keywords` `postKeyword`  WHERE (`postKeyword`.`keyword`=:ypl0).
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (89)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (19)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 10:24:07 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postKeyword.keyword' in 'where clause'. Statement SQL yang dijalankan: SELECT `postKeyword`.`id` AS `t1_c0`, `postKeyword`.`name` AS `t1_c1`, `postKeyword`.`status` AS `t1_c2`, `postKeyword`.`post_id` AS `t1_c3` FROM `keywords` `postKeyword`  WHERE (`postKeyword`.`keyword`=:ypl0).
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (89)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (19)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 10:25:52 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'postKeyword.keyword' in 'where clause'. Statement SQL yang dijalankan: SELECT `postKeyword`.`id` AS `t1_c0`, `postKeyword`.`name` AS `t1_c1`, `postKeyword`.`status` AS `t1_c2`, `postKeyword`.`post_id` AS `t1_c3` FROM `keywords` `postKeyword`  WHERE (`postKeyword`.`keyword`=:ypl0).
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (89)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (19)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 14:33:07 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`keywords`, CONSTRAINT `keywords_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=12.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (96)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/28 14:35:02 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`keywords`, CONSTRAINT `keywords_ibfk_2` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=12.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (96)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/08/31 13:21:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. Statement SQL yang dijalankan: SELECT * FROM `comments` `t` WHERE status NOT IN = :status NOT IN_val LIMIT 10.
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbActiveRecord.php (24)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbGridViewDataBehavior.php (51)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\CommentController.php (14)
+2013/09/04 10:28:02 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'commentCount.reply_to' in 'where clause'. Statement SQL yang dijalankan: SELECT `post_id` AS `c`, COUNT(*) AS `s` FROM `comments` `t` WHERE (commentCount.reply_to IS NOT NULL) AND (`t`.`post_id`=9) GROUP BY `post_id`.
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (86)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (21)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 10:28:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comments.reply_to' in 'where clause'. Statement SQL yang dijalankan: SELECT `post_id` AS `c`, COUNT(*) AS `s` FROM `comments` `t` WHERE (comments.reply_to IS NOT NULL) AND (`t`.`post_id`=9) GROUP BY `post_id`.
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\page\list.php (86)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\PageController.php (21)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 13:42:11 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=8.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (110)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 13:43:31 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=8.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (110)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 13:45:07 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=8.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (111)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 13:45:34 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=8.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (111)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 13:47:24 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=8.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (111)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/04 13:48:08 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`brainhippopress`.`comments`, CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`post_id`) ON DELETE NO ACTION ON UPDATE NO ACTION). Statement SQL yang dijalankan: DELETE FROM `posts` WHERE `posts`.`post_id`=8.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (111)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/12 11:15:40 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'term_id' in field list is ambiguous. Statement SQL yang dijalankan: SELECT 
+							taxo_id, 
+							CASE taxo_id 
+							WHEN 1 THEN GROUP_CONCAT( term_id )
+							WHEN 2 THEN GROUP_CONCAT( name ) END AS groups
+						FROM terms t
+						LEFT JOIN postterm p ON t.term_id = p.term_id
+						WHERE p.post_id =23
+						GROUP BY taxo_id.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (165)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/12 11:16:40 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'term_id' in field list is ambiguous. Statement SQL yang dijalankan: SELECT 
+							taxo_id, 
+							GROUP_CONCAT( CASE taxo_id WHEN 1 THEN term_id ELSE name END ) AS groups
+						FROM terms t
+						LEFT JOIN postterm p ON t.term_id = p.term_id
+						WHERE p.post_id =23
+						GROUP BY taxo_id.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (163)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/12 16:15:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"') 
+              END ) AS groups
+            FROM terms t
+            LEFT ' at line 4. Statement SQL yang dijalankan: SELECT 
+              taxo_id, 
+              GROUP_CONCAT( CASE taxo_id 
+                WHEN 1 THEN CONCAT('",t.term_id,'")  
+                WHEN 2 THEN CONCAT('"',t.name,'"') 
+              END ) AS groups
+            FROM terms t
+            LEFT JOIN postterm p ON t.term_id = p.term_id
+            WHERE p.post_id=23
+            GROUP BY taxo_id.
+in E:\Apache\www\hiipopress\system\protected\models\PostTermModel.php (32)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (7)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (109)
+2013/09/12 16:15:38 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"') 
+              END ) AS groups
+            FROM terms t
+            LEFT ' at line 4. Statement SQL yang dijalankan: SELECT 
+              taxo_id, 
+              GROUP_CONCAT( CASE taxo_id 
+                WHEN 1 THEN CONCAT('",t.term_id,'"')  
+                WHEN 2 THEN CONCAT('"',t.name,'"') 
+              END ) AS groups
+            FROM terms t
+            LEFT JOIN postterm p ON t.term_id = p.term_id
+            WHERE p.post_id=23
+            GROUP BY taxo_id.
+in E:\Apache\www\hiipopress\system\protected\models\PostTermModel.php (32)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbArticleHandlerBehavior.php (7)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\ArticleController.php (109)
+2013/09/18 15:27:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'parent' in 'where clause'. Statement SQL yang dijalankan: SELECT * FROM `terms` `t` WHERE parent=0 AND taxo_id=:taxo.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\TaxonomyController.php (30)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/18 15:33:26 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'parent' in 'where clause'. Statement SQL yang dijalankan: SELECT `term_id`, `name`
+FROM `terms`
+WHERE parent IS NULL AND taxo_id=:taxo.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\TaxonomyController.php (32)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/18 15:33:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'parent' in 'where clause'. Statement SQL yang dijalankan: SELECT `term_id`, `name`
+FROM `terms`
+WHERE parent IS NULL AND taxo_id=:taxo.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\TaxonomyController.php (32)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/18 15:33:52 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'parent' in 'where clause'. Statement SQL yang dijalankan: SELECT `term_id`, `name`
+FROM `terms`
+WHERE parent IS NULL AND taxo_id=:taxo.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\TaxonomyController.php (32)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/18 15:34:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'parent' in 'where clause'. Statement SQL yang dijalankan: SELECT `term_id`, `name`
+FROM `terms`
+WHERE parent IS NULL AND taxo_id=:taxo.
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\TaxonomyController.php (32)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/19 10:45:58 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Artikel' for key 'name'. Statement SQL yang dijalankan: INSERT INTO `terms` (`taxo_id`, `name`, `slug`, `term_group`, `desc`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\TaxonomyController.php (27)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/24 16:27:23 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens. Statement SQL yang dijalankan: INSERT INTO `options` (`name`, `value`, `config`) VALUES (:name, :value, :config).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbOptionAPI.php (22)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SettingController.php (9)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/24 16:28:52 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens. Statement SQL yang dijalankan: UPDATE `options` SET `value`=:value WHERE name=:name.
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbOptionAPI.php (22)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SettingController.php (9)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/24 16:29:35 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens. Statement SQL yang dijalankan: UPDATE `options` SET `value`=:value WHERE name=:name.
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbOptionAPI.php (22)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SettingController.php (10)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/24 16:29:48 [error] [system.db.CDbCommand] CDbCommand::fetch() gagal: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens. Statement SQL yang dijalankan: UPDATE `options` SET `value`=:value WHERE name=:name.
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbOptionAPI.php (22)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SettingController.php (10)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/24 16:38:59 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'value' cannot be null. Statement SQL yang dijalankan: INSERT INTO `options` (`name`, `value`, `config`) VALUES (:name, :value, :config).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbOptionAPI.php (31)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SettingController.php (11)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/24 16:39:19 [error] [system.db.CDbCommand] CDbCommand::execute() gagal: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'value' cannot be null. Statement SQL yang dijalankan: INSERT INTO `options` (`name`, `value`, `config`) VALUES (:name, :value, :config).
+in E:\Apache\www\hiipopress\system\protected\components\internal\AbOptionAPI.php (31)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SettingController.php (21)
+in E:\Apache\www\hiipopress\admin.php (18)
+
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "log" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "request" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "urlManager" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "cache" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "user" application component
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbBackController.php (70)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "session" application component
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbBackController.php (70)
+in E:\Apache\www\hiipopress\admin.php (18)
+
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "log" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "request" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "urlManager" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "cache" application component
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "user" application component
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbBackController.php (66)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "session" application component
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbBackController.php (66)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "menuwidget" application component
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbBackController.php (51)
+in E:\Apache\www\hiipopress\system\protected\admin\components\AbBackController.php (80)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SiteController.php (35)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "themeManager" application component
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SiteController.php (35)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "widgetFactory" application component
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\site\login.php (10)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SiteController.php (35)
+in E:\Apache\www\hiipopress\admin.php (18)
+2013/09/25 16:22:25 [trace] [system.CModule] Loading "clientScript" application component
+in E:\Apache\www\hiipopress\system\protected\admin\extensions\bootstrap\widgets\input\TbInputHorizontal.php (195)
+in E:\Apache\www\hiipopress\system\protected\admin\extensions\bootstrap\widgets\input\TbInput.php (234)
+in E:\Apache\www\hiipopress\system\protected\admin\extensions\bootstrap\widgets\input\TbInputHorizontal.php (24)
+2013/09/25 16:22:26 [trace] [system.CModule] Loading "bootstrap" application component
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\layouts\main.php (7)
+in E:\Apache\www\hiipopress\system\protected\admin\themes\bootstrap\views\layouts\column1.php (4)
+in E:\Apache\www\hiipopress\system\protected\admin\controllers\SiteController.php (35)
+2013/09/25 16:22:26 [trace] [system.CModule] Loading "assetManager" application component
+in E:\Apache\www\hiipopress\system\protected\admin\extensions\bootstrap\components\Bootstrap.php (306)
+in E:\Apache\www\hiipopress\system\protected\admin\extensions\bootstrap\components\Bootstrap.php (50)
+in E:\Apache\www\hiipopress\system\protected\admin\extensions\bootstrap\components\Bootstrap.php (81)

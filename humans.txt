@@ -1,0 +1,14 @@
+# humanstxt.org/
+
+# TEAM
+
+    Zein Miftah -- Web Developer -- @miftahzein
+
+# THANKS
+
+    AB Team
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Twitter Bootstrap

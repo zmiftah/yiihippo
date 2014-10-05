@@ -1,0 +1,157 @@
+input[type="radio"] {
+	margin-top: 0 !important;
+}
+
+label {
+	font-size: 12px;
+}
+
+span.label-success {
+	font-size: 9px;
+}
+
+.selection tr td {
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.selection tr td.header {
+	font-size: 14px;
+}
+
+.form-login {
+	width: 450px;
+	margin: 0 auto;
+}
+
+.domain-form {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.header-row( @height ) {
+	height: @height;
+
+	background-color: #fff;
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
+.barfile { margin-bottom: 0px }
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,
+.nav-tabs .open .dropdown-toggle {
+	color: #333;
+}
+
+.dropdown-menu {
+	top: -2px;
+	left: 238px;
+	min-width: 238px;
+}
+
+.nav-tabs .open .dropdown-toggle {
+	background-color: #EEEEEE;
+}
+
+#page.container {
+  font-size: 12px;
+
+	#header-row {
+		.header-row( 83px );
+
+		#header-content {
+			position: relative;
+			color: #fff;
+			top: 50%;
+
+			a {
+				color: #fff;
+			}
+
+			#left-side {
+				position: relative;
+				left: 22%;
+			}
+
+			#right-side {
+				position: relative;
+				left: 64%;
+			}
+		}
+	}
+
+	#content-row {
+		min-height: 650px;
+		padding-top: 3px;
+		// margin-left: 0;
+
+		#mainmenu {
+			margin-left: 0px;
+			width: 240px;
+
+			ul.nav-stacked {
+				background-color: #f7f7f7;
+
+				li a {
+					font-size: 13px;
+				}
+
+				li:nth-child(2) a {
+					//background: #f7f7f7 url(../img/tombol-list.png) center right no-repeat;
+				}
+
+				li.submenu {
+					background-color: #fff;
+
+					a i { 
+						padding-left: 20px; 
+					}
+				}
+			}
+		}
+
+		#maincontent {
+			// margin-left: 20px;
+			// width: 784px;
+		}
+	}
+
+	#footer-row {
+		background-color: #efefef;
+		padding: 20px 0px 20px 0px;
+		text-align: center;
+
+		border-bottom-left-radius: 6px;
+		border-top-left-radius: 6px;
+		border-top-right-radius: 6px;
+		border-bottom-right-radius: 6px;
+
+		-webkit-border-bottom-left-radius: 6px;
+		-webkit-border-top-left-radius: 6px;
+		-webkit-border-top-right-radius: 6px;
+		-webkit-border-bottom-right-radius: 6px;
+
+		-moz-border-radius-bottomleft: 6px;
+		-moz-border-radius-topleft: 6px;
+		-moz-border-radius-topright: 6px;
+		-moz-border-radius-bottomright: 6px;
+
+		#footer {
+			margin-left: 0px;
+			font-size: 11px;
+
+			#copyright {
+				color: #1c1c1c;
+				font-weight: bold;
+			}
+
+			#siup-address {
+				margin-top: 10px;
+				color: #a9a9a9;
+			}
+		}
+	}
+}		

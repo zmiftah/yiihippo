@@ -1,0 +1,5 @@
+[20-Dec-2013 06:26:27] PHP Warning:  Invalid argument supplied for foreach() in /home/as72nvid/public_html/content/themes/swift/views/post/list.php on line 2
+[20-Dec-2013 06:26:27] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/post/list.php on line 60
+[20-Dec-2013 09:20:39] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/post/view_page.php on line 2
+[20-Dec-2013 21:14:22] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/post/view_article.php on line 3
+[22-Dec-2013 10:26:50] PHP Fatal error:  Using $this when not in object context in /home/as72nvid/public_html/content/themes/swift/views/post/view_article.php on line 3
